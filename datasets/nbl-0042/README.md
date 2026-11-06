@@ -9,3 +9,7 @@ A 30-day sample of device telemetry events for benchmarking.
 ## Access
 
 This card is part of the Nimbus open data catalog. See the catalog index for request procedures.
+
+**License**
+
+This dataset is released under the CDLA-Permissive-2.0 license.
